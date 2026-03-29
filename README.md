@@ -7,7 +7,7 @@
 ⚙️ Currently learning backend development & APIs  
 🤝 Active in hackathons and tech communities  
 💡 Always exploring new ideas and technologies
-⚡ Fun fact: Coffee fuels my code, curiosity fuels my mind ☕🚀 meaning of this 
+⚡ Fun fact: Coffee fuels my code, curiosity fuels my mind 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/super_girl_.08/)
