@@ -24,9 +24,6 @@
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-181717?style=flat&logo=github&logoColor=white)  
 ![W3Schools](https://img.shields.io/badge/W3Schools-0099FF?style=flat&logo=w3schools&logoColor=white)
 
-## 🚀 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shemsanofly&show_icons=true&theme=radical&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shemsanofly&layout=compact&theme=radical)
 
 ## 💫 Keep Building
 Code, create, and never stop learning.  
