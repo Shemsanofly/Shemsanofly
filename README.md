@@ -7,7 +7,6 @@
 ⚙️ Currently learning backend development & APIs  
 🤝 Active in hackathons and tech communities  
 💡 Always exploring new ideas and technologies
-
 ⚡ Fun fact: Coffee fuels my code, curiosity fuels my mind ☕🚀 meaning of this 
 
 ## 🌐 Socials:
