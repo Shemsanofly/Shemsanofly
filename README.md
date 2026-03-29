@@ -25,13 +25,9 @@
 ![W3Schools](https://img.shields.io/badge/W3Schools-0099FF?style=flat&logo=w3schools&logoColor=white)
 
 ## 🚀 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shemsanofly)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Shemsanofly&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shemsanofly&show_icons=true&theme=radical&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shemsanofly&layout=compact&theme=radical)
 
-## 📫 Let’s Connect
-💡 I’m always open to collaborations, ideas, and feedback!  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Shemsa Amin/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/super_girl_.08/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shemsanofly)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@Shemsanofly/)
+## 💫 Keep Building
+Code, create, and never stop learning.  
+Every small step today builds the innovation of tomorrow. 🚀
