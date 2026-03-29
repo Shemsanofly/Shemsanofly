@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hey there, I'm Shemsa Amin
+💻 Software Developer | 🌐 Web & App Builder | 🔐 Cybersecurity Enthusiast 
 
-<!--
-**Shemsanofly/Shemsanofly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 About Me  
+🚀 Building modern websites   
+🔐 Passionate about cybersecurity & secure systems  
+⚙️ Currently learning backend development & APIs  
+🤝 Active in hackathons and tech communities  
+💡 Always exploring new ideas and technologies
+⚡ Fun fact: Coffee fuels my code, curiosity fuels my mind ☕🚀 meaning of this 
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/super_girl_.08/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shemsa-amin-2a772a2b5/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)  
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-181717?style=flat&logo=github&logoColor=white)  
+![W3Schools](https://img.shields.io/badge/W3Schools-0099FF?style=flat&logo=w3schools&logoColor=white)
+
+## 🚀 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shemsanofly)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Shemsanofly&layout=compact)
+
+## 📫 Let’s Connect
+💡 I’m always open to collaborations, ideas, and feedback!  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Shemsa Amin/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/super_girl_.08/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shemsanofly)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@Shemsanofly/)
